@@ -7,20 +7,21 @@ assignees: ''
 
 ---
 
-**Type**
+**Addon Type**
 Plugin or Theme.
 
 **Name**
-A clear and concise description of the plugin or theme.
+Name of the addon.
 
 **Description**
-A clear and concise description of the plugin or theme.
+A clear and concise description of the addon.
 
 **Repository link**
-A GitHub repoistory link to the plugin or theme. *The plugin or theme must be hosted on GitHub to be accepted.*
+A GitHub public repository link to the addon. *The addon must be public and hosted on GitHub to be accepted.*
 
 ----
 
-- [ ] I have checked to make sure a similar plugin or theme does not already exist for Vizality
-- [ ] I have checked to made sure this plugin or theme complies with Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md)
-- [ ] I am confirming that I am the original creator of this plugin/theme
+- [ ] I have checked to make sure a similar addon does not already exist for Vizality
+- [ ] I have checked to made sure this addon complies with Vizality's [guidelines](https://github.com/vizality/vizality-community/blob/master/GUIDELINES.md)
+- [ ] I am confirming that I am the original creator of this addon or I have permission to post this addon
+- [ ] I agree to transfer ownership of this repo to @vizality-bot upon approval in order for it to be listed on @vizality-community
